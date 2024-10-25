@@ -1,9 +1,9 @@
--👋 Hi there! I'm Moritz
--🎸 Music, Code & DIY – always looking for new ideas
--🌱 Studying Applied Computer Science
--📚 Currently learning Spanish & Express.js
--📫 Contact: moritzstecher@gmx.de
--😄 Pronouns: He/Him
+-👋 Hi there! I'm Moritz<br>
+-🎸 Music, Code & DIY – always looking for new ideas<br>
+-🌱 Studying Applied Computer Science<br>
+-📚 Currently learning Spanish & Express.js<br>
+-📫 Contact: moritzstecher@gmx.de<br>
+-😄 Pronouns: He/Him<br>
 
 <!---
 stechmo/stechmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
