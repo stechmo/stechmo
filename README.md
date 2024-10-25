@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stechmo
-- 👀 I’m interested in music, programming and living
+- 👀 I’m interested in music, programming and DIYing
 - 🌱 I’m currently learning spanish and express.js
 - 📫 Mail: moritzstecher@gmx.de
 - 😄 Pronouns: he/him
