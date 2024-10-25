@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Moritz
-- 👀 I’m interested in music, programming and DIYing
-- 🌱 I’m currently learning spanish and express.js
-- 📫 Mail: moritzstecher@gmx.de
-- 😄 Pronouns: he/him
+-👋 Hi there! I'm Moritz
+-🎸 Music, Code & DIY – always looking for new ideas
+-🌱 Studying Applied Computer Science
+-📚 Currently learning Spanish & Express.js
+-📫 Contact: moritzstecher@gmx.de
+-😄 Pronouns: He/Him
 
 <!---
 stechmo/stechmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
