@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stechmo
+- 👋 Hi, I’m Moritz
 - 👀 I’m interested in music, programming and DIYing
 - 🌱 I’m currently learning spanish and express.js
 - 📫 Mail: moritzstecher@gmx.de
